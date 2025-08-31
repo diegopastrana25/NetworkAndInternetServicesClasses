@@ -1,0 +1,51 @@
+ACTIVIDAD 1 
+Modelo cliente-servidor
+La arquitectura cliente-servidor
+reparten entre los proveedores de
+llamados clientes. Un cliente realiza
+respuesta. 
+1) Se pide configurar en packet
+características: 
+- 2 PCs con las IPs 192.168.10.2
+- 1 servidor DNS con la IP 192.
+- www.alpharius.com 
+- www.omegon.com 
+- Servidor Web que contenga
+Recurso: 
+https://www.youtube.com/watch?v=Qrp3Qv0fOP8
+https://www.netacad.com/es/courses/getting
+XL
+2) Detalla un modelo cliente –
+tiene y su funcionamiento. 
+servidor
+es un modelo de diseño de software en el que
+de recursos o servicios, llamados servidores,
+realiza peticiones a otro programa, el servidor,
+tracer una arquitectura modelo-servidor con
+192.168.10.2 y 192.168.10.3 
+192.168.10.10 que traduzca 2 páginas web que
+las páginas webs. 
+https://www.youtube.com/watch?v=Qrp3Qv0fOP8
+https://www.netacad.com/es/courses/getting-started-cisco-packet-tracer?courseLang=es
+servidor construído por tí y explica los componentes
+que las tareas se 
+servidores, y los demandantes, 
+servidor, quien le da 
+con las siguientes 
+que son: 
+tracer?courseLang=escomponentes que 
+La entrega de esta tarea se realizar
+comprimido con el archivo
+archivo .pdf explicando los
+nombre:
+Actividad1_Nombre_Apellido1_Apellido2.rar
+Ejemplo:
+Actividad1_Daniel_Ramos_Quint
+realizará vía Moodle y mediante un archivo
+.pkt con las configuraciones de cada
+pasos realizados, y con el siguiente formato
+Actividad1_Nombre_Apellido1_Apellido2.rar
+_Quintanilla.rar
+archivo
+ejercicio y un 
+formato de 

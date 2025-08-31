@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="6" node_type="writer">Diego Pastrana Monzón</paragraph>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <object alt="" name="Image2" object_type="graphic"/>
+ <object alt="" name="Image4" object_type="graphic"/>
+ <object alt="" name="Image3" object_type="graphic"/>
+ <object alt="" name="Image5" object_type="graphic"/>
+ <object alt="" name="Image6" object_type="graphic"/>
+ <object alt="" name="Image7" object_type="graphic"/>
+ <object alt="" name="Image8" object_type="graphic"/>
+ <object alt="" name="Image9" object_type="graphic"/>
+ <object alt="" name="Image10" object_type="graphic"/>
+ <object alt="" name="Image12" object_type="graphic"/>
+ <object alt="" name="Image13" object_type="graphic"/>
+ <paragraph index="48" node_type="writer">0) Instalar Thunderbird</paragraph>
+ <paragraph index="50" node_type="writer">  </paragraph>
+ <paragraph index="55" node_type="writer">1) Crea una cuenta de correo gratuita y enumera los pasos que has seguido para conseguirlo.</paragraph>
+ <paragraph index="56" node_type="writer">Indica además los pasos que debes de seguir para acceder a la cuenta de correo que has creado.</paragraph>
+ <paragraph index="59" node_type="writer">Me registré en Gmail con un nuevo usuario y contraseña.</paragraph>
+ <paragraph index="60" node_type="writer">Para acceder iniciamos sesión mediante el usuario y contraseña que ya establecimos previamente.</paragraph>
+ <paragraph index="61" node_type="writer">Y activamos el POP e IMAP</paragraph>
+ <paragraph index="63" node_type="writer"> </paragraph>
+ <paragraph index="65" node_type="writer">2) Sobre la cuenta de correo que has creado en el ejercicio anterior, configura el cliente de correo</paragraph>
+ <paragraph index="66" node_type="writer">Mozilla Thunderbird para acceder a ella. Cuenta como has configurado el acceso a dicha cuenta</paragraph>
+ <paragraph index="67" node_type="writer">documentándola con capturas de pantalla.</paragraph>
+ <paragraph index="69" node_type="writer">  </paragraph>
+ <paragraph index="70" node_type="writer"> </paragraph>
+ <paragraph index="72" node_type="writer"> </paragraph>
+ <paragraph index="93" node_type="writer"> </paragraph>
+ <paragraph index="94" node_type="writer">3) Indica todos los pasos que sigue un mensaje de correo desde que es escrito y enviado por el</paragraph>
+ <paragraph index="95" node_type="writer">remitente hasta que es abierto y leído por el destinatario.</paragraph>
+ <paragraph index="96" node_type="writer">Ambos usuarios acceden a su correo a través del protocolo POP3.</paragraph>
+ <paragraph index="98" node_type="writer"> </paragraph>
+ <paragraph index="99" node_type="writer"> </paragraph>
+ <paragraph index="100" node_type="writer">4) Indica los pasos a seguir para enviar un mensaje de correo firmado/cifrado a través de</paragraph>
+ <paragraph index="101" node_type="writer">Thunderbird.</paragraph>
+ <paragraph index="103" node_type="writer"> </paragraph>
+ <paragraph index="104" node_type="writer"> </paragraph>
+ <paragraph index="105" node_type="writer"> </paragraph>
+ <paragraph index="109" node_type="writer">ç</paragraph>
+ <paragraph index="126" node_type="writer"> </paragraph>
+ <paragraph index="127" node_type="writer">  5) Sobre lo realizado en el ejercicio anterior, indica los pasos a seguir para recibir y descifrar un</paragraph>
+ <paragraph index="128" node_type="writer">correo cifrado desde Thunderbird.</paragraph>
+ <paragraph index="131" node_type="writer"> No podemos descifrar el archivo porque necesitamos una clave que no tenemos.</paragraph>
+</indexing>

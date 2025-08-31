@@ -1,0 +1,49 @@
+﻿CREACIÓN DE VHOST:
+
+ 
+	  
+Buscamos el archivo httpd-vhost.conf en /opt/lampp/etc/extra la carpeta y añadimos lo resaltado en azul de la foto.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Lo mismo hacemos con el archivo host, ubicado en la carpeta /etc , ahí añadimos con la IP correspondiente a localhost nuestra dirección de joomla.local definida previamente por nosotros en httpd-vhost.conf
+
+
+ 
+Ponemos la dirección de antes para joomla.local y nos dirigimos a joomla, una vez hecho esto ya nos carga directamente la página de inicio para iniciar sesión.
