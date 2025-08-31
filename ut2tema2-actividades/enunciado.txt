@@ -1,0 +1,58 @@
+﻿Actividades UT2 – Tema 2
+
+1. ¿Cuáles son los parámetros de red que puede obtener un cliente de un servidor DHCP?
+    • Máscara de red.
+    • Direcciones IP de las subredes.
+    • Máscaras de subred.
+    • Puerta de enlace o pasarela predeterminada.
+    • Direcciones IP de los servidores DNS.
+    • Nombre del dominio de la red o subredes.
+    • Dirección de difusión de la red o subredes.
+    • Rango de direcciones a asignar a los clientes.
+    • Dirección IP, MAC y nombre de los equipos que tendrán siempre las mismas direcciones.
+2. Utiliza un programa que capture el tráfico de la red para obtener los mensajes que se envían entre un cliente y un servidor DHCP cuando el primero arranca y solicita la configuración de red. Dibuja un esquema con los mensajes enviados. 
+
+Activé u desactivé el adaptador Wi-Fi de mi ordenador mientras capturaba los paquetes de dicho adaptador con wireshark y al reactivarlo se capturaron los siguientes paquetes:
+    • DHCP Request
+    • DHCP Discover
+    • DHCP Offer
+    • DHCP Request
+    • DHCP ACK
+
+ 
+
+
+
+ 
+  
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+3. ¿Cómo puedes averiguar si un equipo ha obtenido su configuración de red por DHCP sin necesidad de acceder a las ventanas o archivos de configuración?
+
+ipconfig /all y vemos los adaptadores de red del ordenador
+
+
+4. Cuando un equipo envía una petición para obtener su configuración de red, ésta puede ser recibida por varios servidores DHCP a la vez.
+
+¿Qué control se lleva a cabo para evitar que al equipo se le reserve más de una dirección IP a la vez?
+
+Cuando el equipo pide su configuración de red, varios servidores DHCP pueden responder a la vez. Pero entonces el equipo elige solo la primera oferta de IP que recibe y a raíz de eso envía una confirmación a ese servidor. Así los demás servidores entienden que su oferta no fue aceptada y cancelan sus propuestas, evitando que el equipo obtenga varias IPs a la vez.
